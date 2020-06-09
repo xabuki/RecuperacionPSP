@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;pspUd02_coordinacionHilo&apos;&#x0D;&#x0A;- Original project: &apos;pspUd02_coordinacionHilo&apos;&#x0D;&#x0A;- Original element: &apos;org.cuatrovientos.recuperacionPSP18.Thread.java&apos;" description="Delete element" element1="/src&lt;org.cuatrovientos.recuperacionPSP18{Thread.java" elements="1" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1590536393541" subPackages="false" version="1.0"/>
+</session>
